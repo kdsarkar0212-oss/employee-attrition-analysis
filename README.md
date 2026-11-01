@@ -41,3 +41,13 @@ IBM HR Analytics Employee Attrition sample dataset.
 ## Important Note
 This project uses sample HR data for educational and analytical purposes. Model predictions should not be used as automated employment decisions. Findings indicate associations, not proven causes.
 
+## Power BI Dashboard
+
+### Page 1 – Executive Overview
+![Executive Overview](dashboard/power%20bi%20ss1.png)
+
+### Page 2 – Attrition Drivers
+![Attrition Drivers](dashboard/power%20bi%20ss2.png)
+
+### Page 3 – Predictive Analytics
+![Predictive Analytics](dashboard/powerbi%20ss3.png)
