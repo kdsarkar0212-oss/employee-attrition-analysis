@@ -46,8 +46,8 @@ This project uses sample HR data for educational and analytical purposes. Model 
 ### Page 1 – Executive Overview
 ![Executive Overview](dashboard/power%20bi%20ss1.png)
 
-### Page 2 – Attrition Drivers
+### Page 2 – Predictive Analytics
 ![Attrition Drivers](dashboard/power%20bi%20ss2.png)
 
-### Page 3 – Predictive Analytics
+### Page 3 – Attrition Drivers
 ![Predictive Analytics](dashboard/powerbi%20ss3.png)
